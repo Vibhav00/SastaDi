@@ -22,6 +22,8 @@ the DI framework will assign the value at runtime—kind of like magic! 🎩✨ 
 assigning 143 (I love you) to express some extra love for dependency injection. 💖😂
 
 
+
+
 ## Different Screens 📱📲📳
 <table style="width:100%">
   <tr>
